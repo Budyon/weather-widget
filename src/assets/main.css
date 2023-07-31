@@ -1,0 +1,31 @@
+p {
+  margin: 0;
+}
+
+.mb-20px {
+  margin-bottom: 20px;
+}
+
+.mr-5px {
+  margin-right: 5px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.pointer {
+  cursor: pointer;
+}
